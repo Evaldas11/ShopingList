@@ -4,4 +4,10 @@ Project are still in develompment mode.
 You can login with admin role : email - evaldas
 				password - labas
 		    user role : email - mindaugas
-				password - labas	
+				password - labas
+
+
+
+
+Project create with Spring MVC framework.
+Use Hibernate, JPA, spring security, hibernate validator dependencies. 	
