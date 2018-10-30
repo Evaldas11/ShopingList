@@ -1,0 +1,7 @@
+Project are still in develompment mode.
+
+
+You can login with admin role : email - evaldas
+				password - labas
+		    user role : email - mindaugas
+				password - labas	
